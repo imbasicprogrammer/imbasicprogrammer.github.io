@@ -1,0 +1,39 @@
+.jumbotron {
+  padding-top: 5rem;
+  background-color: rgb(169, 206, 247);
+}
+
+section {
+  padding-top: 5rem;
+}
+
+#Projects {
+  background-color: #a2d9ff;
+}
+
+.kartu1 {
+  position: relative;
+  z-index: 1;
+}
+.kartu1:hover {
+  margin-top: -20px;
+  transition: 0.3s ease-in-out;
+}
+
+.kartu2 {
+  position: relative;
+  z-index: 2;
+}
+.kartu2:hover {
+  margin-top: -20px;
+  transition: 0.3s ease-in-out;
+}
+
+.kartu3 {
+  position: relative;
+  z-index: 3;
+}
+.kartu3:hover {
+  margin-top: -20px;
+  transition: 0.3s ease-in-out;
+}
